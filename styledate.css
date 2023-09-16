@@ -1,0 +1,86 @@
+h1{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+table{
+	color: white;
+	font-size: 20px;
+	border-style:solid;
+	width:600px;
+    border-radius: 15px;
+	padding:10px;
+	background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+td{
+	color:white;
+	width:250px;
+}
+td.input-field {
+    width: 20%;
+    padding: 3px;
+    text-align: center;
+  }
+  
+  .reg{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+	padding-top:10px;
+	
+  }
+  
+  input[type=text] {
+  width: 280px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+select{
+	width: 278px;
+  padding: 8px;
+  margin: 3px 3px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.csel{
+	width:280px;
+  padding: 3px;
+  margin: 4px 3px;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button{
+	width: 50px;
+  padding: 6px;
+  margin: 1px 1px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor:pointer;
+}
+
+textarea{
+	width: 280px;
+  padding: 6px;
+  margin: 8px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+ 
